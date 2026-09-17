@@ -1,8 +1,23 @@
 RNA binding project
 =====
+
+# Biological question
+
+Proteins and RNA do not act as independent biomolecules, but also orchestrate
+cell biology through protein-RNA interactions. Cross-linking experiments
+followed by RNA-seq are a useful way of detecting these interactions. Could
+training a ML model on this data be able to predict if a given protein binds
+to a given RNA molecule?
+
+# Questions to test
+
+
+
 Protein of interest [ELAVL1](https://www.encodeproject.org/genes/1994/)
 
 ENCODE API: https://www.encodeproject.org/help/rest-api/
+
+Processed DataSet (HF): https://huggingface.co/datasets/morrislab/eclip
 
 ELAVL1 encodes the ELAV-like RNA-binding protein 1 and acts as a shuttling RNA-binding protein that stabilizes target mRNAs. It selectively binds AU-rich and poly-U elements in the 3'-UTR of transcripts and promotes mRNA stability and translation, linking post-transcriptional control to gene expression. Its best-studied targets include MYC, FOS, and leptin, and it is implicated in embryonic stem cell differentiation.
 
@@ -18,4 +33,3 @@ Main objectives
 Jupiter notebook
 -----------------
 Go here
-
