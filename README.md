@@ -30,6 +30,8 @@ Main objectives
 2. second
 3. third
 
-Jupiter notebook
------------------
-Go here
+## Jupyter Notebook
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dgruano/elixir_AI4LS_rna_binding/blob/main/rna_binding_eclip.ipynb)
+
+Open and run the notebook directly in Google Colab: [`rna_binding_eclip.ipynb`](./rna_binding_eclip.ipynb)
