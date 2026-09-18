@@ -34,3 +34,6 @@ Main objectives
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dgruano/elixir_AI4LS_rna_binding/blob/main/rna_binding_eclip.ipynb)
 
 Open and run the notebook directly in Google Colab: [`rna_binding_eclip.ipynb`](./rna_binding_eclip.ipynb)
+
+## Google Slides
+https://docs.google.com/presentation/d/16hHUvPhyQQkyKg24X6QvYx8N1QssGQDwkSnmLYuwRH8/edit?usp=sharing
